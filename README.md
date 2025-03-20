@@ -23,6 +23,7 @@ This is the frontend of an **HR Management System**, developed during my interns
 - **React Router** (Navigation)
 
 ## Folder Structure
+These files are available in the master branch
 ```
 project-root/
 │── build/
